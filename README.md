@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm vivek tarun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
+<h3 align="center">A Machine Learning software Devloper</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
